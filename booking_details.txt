@@ -1,0 +1,50 @@
+Customer: Virat
+City: Mumbai
+Theater: PVR
+Movie: Baahubali 2
+Location: Location1
+Timing: 15:00
+Screen Number: 3
+Number of Tickets: 1
+Total Amount: ₹ 150
+------------------------------------------
+Customer: akshat
+City: Mumbai
+Theater: kamal
+Movie: Mubarak
+Location: L6
+Timing: 14:00
+Screen Number: 2
+Number of Tickets: 2
+Total Amount: ₹ 300
+------------------------------------------
+Customer: Virat
+City: Mumbai
+Theater: PVR
+Movie: Baahubali 2
+Location: Location1
+Timing: 18:00
+Screen Number: 1
+Number of Tickets: 5
+Total Amount: ₹ 750
+------------------------------------------
+Customer: Virat
+City: Mumbai
+Theater: INOX
+Movie: Joker
+Location: Location2
+Timing: 19:00
+Screen Number: 1
+Number of Tickets: 5
+Total Amount: ₹ 750
+------------------------------------------
+Customer: Virat
+City: Mumbai
+Theater: INOX
+Movie: Avengers: Endgame
+Location: Location2
+Timing: 13:00
+Screen Number: 2
+Number of Tickets: 4
+Total Amount: ₹ 600
+------------------------------------------
